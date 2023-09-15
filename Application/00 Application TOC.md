@@ -2,12 +2,14 @@
 
 ## Business Central Application Training
 
-### Business Central Product Overview
+### Introduction to Dynamics 365 Business Central Online
 
 ### Online Environment Setup
 
-### Introduction to Dynamics 365 Business Central Online
 
-### Business Central Admin Center
+
+### EXTRA:  Business Central Administration
 
 ### EXTRA:  Microsoft Partner Center
+
+### EXTRA:  Azure Security
